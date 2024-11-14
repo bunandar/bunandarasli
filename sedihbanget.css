@@ -44,3 +44,10 @@ body {
     padding: 20px;
     text-align: center;
   }
+
+  .centergambarLOL {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
